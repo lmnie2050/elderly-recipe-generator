@@ -1,0 +1,5 @@
+{
+  "name": "長輩食譜數據生成器",
+  "description": "上傳食譜照片與每日飲食建議量 PDF，自動解析並生成符合長輩營養需求的結構化 JSON 數據。",
+  "requestFramePermissions": []
+}
